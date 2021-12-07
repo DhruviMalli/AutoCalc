@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-07T16:41:12 IST" name="Default suite" finished-at="2021-12-07T16:41:39 IST" duration-ms="26922">
+    <groups>
+    </groups>
+    <test started-at="2021-12-07T16:41:12 IST" name="Default test" finished-at="2021-12-07T16:41:39 IST" duration-ms="26922">
+      <class name="Test.SimpleSub">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Test.SimpleSub@6f27a732]" started-at="2021-12-07T16:41:12 IST" name="beforeMethod" finished-at="2021-12-07T16:41:12 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Add()[pri:0, instance:Test.SimpleSub@6f27a732]" started-at="2021-12-07T16:41:12 IST" name="Add" finished-at="2021-12-07T16:41:20 IST" duration-ms="7913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Test.SimpleSub@6f27a732]" started-at="2021-12-07T16:41:20 IST" name="afterMethod" finished-at="2021-12-07T16:41:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Test.SimpleSub -->
+      <class name="Test.SimpleDiv">
+        <test-method signature="Div()[pri:0, instance:Test.SimpleDiv@11bd0f3b]" started-at="2021-12-07T16:41:27 IST" name="Div" finished-at="2021-12-07T16:41:33 IST" duration-ms="5937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Div -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Test.SimpleDiv@11bd0f3b]" started-at="2021-12-07T16:41:27 IST" name="beforeMethod" finished-at="2021-12-07T16:41:27 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Test.SimpleDiv@11bd0f3b]" started-at="2021-12-07T16:41:33 IST" name="afterMethod" finished-at="2021-12-07T16:41:33 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Test.SimpleDiv -->
+      <class name="Test.SimpleAdd">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Test.SimpleAdd@69e1dd28]" started-at="2021-12-07T16:41:20 IST" name="beforeMethod" finished-at="2021-12-07T16:41:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Add()[pri:0, instance:Test.SimpleAdd@69e1dd28]" started-at="2021-12-07T16:41:20 IST" name="Add" finished-at="2021-12-07T16:41:27 IST" duration-ms="6959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Test.SimpleAdd@69e1dd28]" started-at="2021-12-07T16:41:27 IST" name="afterMethod" finished-at="2021-12-07T16:41:27 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Test.SimpleAdd -->
+      <class name="Test.SimpleMul">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Test.SimpleMul@c333c60]" started-at="2021-12-07T16:41:33 IST" name="beforeMethod" finished-at="2021-12-07T16:41:33 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Add()[pri:0, instance:Test.SimpleMul@c333c60]" started-at="2021-12-07T16:41:33 IST" name="Add" finished-at="2021-12-07T16:41:39 IST" duration-ms="6039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Test.SimpleMul@c333c60]" started-at="2021-12-07T16:41:39 IST" name="afterMethod" finished-at="2021-12-07T16:41:39 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Test.SimpleMul -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
